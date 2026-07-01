@@ -5,7 +5,11 @@ opencode plugin for AlchemystAI Context Layer — gives opencode agents persiste
 ## Install
 
 ```bash
+# via npm
 npm install opencode-alchemyst-context
+
+# via GitHub
+npm install https://github.com/Alchemyst-ai/opencode-alchemyst-context.git
 ```
 
 Add to `opencode.json`:
