@@ -1,4 +1,4 @@
-# opencode-alchemyst-context
+# @alchemystai/opencode
 
 opencode plugin for AlchemystAI Context Layer — gives opencode agents persistent, retrievable memory backed by Alchemyst.
 
@@ -6,7 +6,7 @@ opencode plugin for AlchemystAI Context Layer — gives opencode agents persiste
 
 ```bash
 # via npm
-npm install opencode-alchemyst-context
+npm install @alchemystai/opencode
 
 # via GitHub
 npm install https://github.com/Alchemyst-ai/opencode-alchemyst-context.git
@@ -16,7 +16,7 @@ Add to `opencode.json`:
 
 ```json
 {
-  "plugin": ["opencode-alchemyst-context"]
+  "plugin": ["@alchemystai/opencode"]
 }
 ```
 

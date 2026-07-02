@@ -1,5 +1,5 @@
 {
-  "name": "opencode-alchemyst-context",
+  "name": "@alchemystai/opencode",
   "version": "0.1.0",
   "description": "opencode plugin for AlchemystAI Context Layer — persistent, retrievable memory for coding sessions",
   "type": "module",
